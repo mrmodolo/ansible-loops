@@ -1,0 +1,24 @@
+  Colour number 1 is Blue.
+  Currently 2 people call Blue their favourite.
+  And the following are examples of things that are Blue:
+    - Sky
+    - Sea
+    - Jeans
+
+  Colour number 2 is Yellow.
+  Currently 3 people call Yellow their favourite.
+  And the following are examples of things that are Yellow:
+    - Egg yolk
+    - Taxi
+    - Banana
+    - Lemon
+    - Sun
+
+  Colour number 3 is Orange.
+  Currently 2 people call Orange their favourite.
+  And the following are examples of things that are Orange:
+    - Pumpkin
+    - Basketball
+    - Carrots
+    - Oranges
+
